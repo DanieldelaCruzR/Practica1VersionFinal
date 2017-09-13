@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Register Form</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="rpassword">Confirm Password:</string>
+    <string name="register">Register Form</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="masculino">Male</string>
+    <string name="femenino">Female</string>
+    <string name="city">Place of Birth:</string>
+    <string name="date">Date of Birth:</string>
+    <string name="date2">Date</string>
+    <string name="hobbies">Hobbies:</string>
+    <string name="swim">Swim</string>
+    <string name="run">Run</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="register2">Register</string>
+    <string name="welcome">Welcome !</string>
+    <string name="password2">PasswordDefault</string>
+    <string name="show">Show</string>
+
+
+    <string-array name="ciudades">
+        <item>Bogota</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Bucaramanga</item>
+        <item>Cartagena</item>
+        <item>Barranquilla</item>
+        <item>Santa Marta</item>
+        <item>Manizales</item>
+        <item>Pereira</item>
+        <item>Monteria</item>
+        <item>Villavicencio</item>
+        <item>Neiva</item>
+        <item>Tunja</item>
+        <item>Popayan</item>
+        <item>Palmira</item>
+        <item>Rioacha</item>
+        <item>Sincelejo</item>
+        <item>Florencia</item>
+        <item>Buenaventura</item>
+        <item>Yopal</item>
+        <item>Quibdo</item>
+        <item>Barrancabermeja</item>
+        <item>Bello</item>
+        <item>Leticia</item>
+        <item>Envigado</item>
+        <item>Buga</item>
+        <item>Tumaco</item>
+        <item>Ocaña</item>
+        <item>Mocoa</item>
+        <item>Pasto</item>
+        <item>Ibague</item>
+        <item>Valledupar</item>
+        <item>Armenia</item>
+        <item>Sabaneta</item>
+        <item>Itagui</item>
+        <item>Arauca</item>
+        <item>Cucuta</item>
+        <item>Puerto Inirida</item>
+
+
+    </string-array>
+</resources>

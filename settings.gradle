@@ -1,0 +1,1 @@
+include ':app', ':formulario', ':resistencia', ':layoutcolors2', ':geometrica2'

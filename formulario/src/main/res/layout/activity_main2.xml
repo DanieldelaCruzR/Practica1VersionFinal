@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    tools:context="com.example.formulario.Main2Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="110dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            android:text="@string/welcome"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:textColor="@color/colorPrimary"
+            android:textStyle="bold"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"> </LinearLayout>
+            <ImageView
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1.5"
+                android:id="@+id/imagen"/>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"> </LinearLayout>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:text="Name Default"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:id="@+id/tName"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:text="email.default@gmail.com"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:id="@+id/tEmail"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="0.8"
+                android:text="@string/password2"
+                android:textSize="22sp"
+                android:gravity="center"
+                android:id="@+id/tPassword"/>
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_weight="0.4"
+                android:textColor="@color/gris"
+                android:text="@string/show"
+                android:layout_gravity="center"
+                android:id="@+id/cPassword"
+                android:onClick="check"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:text="CityDefault"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:id="@+id/tCity"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.8"
+            android:text="DateBirthDefault"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:id="@+id/tDateBirth"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="HobbiesDefault"
+            android:textSize="22sp"
+            android:gravity="center"
+            android:id="@+id/tHobbies"/>
+
+
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

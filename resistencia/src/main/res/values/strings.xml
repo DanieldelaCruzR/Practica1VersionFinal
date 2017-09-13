@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Resistencia</string>
+    <string name="resistencia">CALCULADORA DE RESISTENCIA</string>
+    <string name="banda1">Banda 1</string>
+    <string name="banda2">Banda 2</string>
+    <string name="banda3">Banda 3</string>
+    <string name="tolerancia">Tolerancia</string>
+    <string name="valor">Valor:</string>
+
+    <string-array name="tolerancia_array">
+        <item>Marron: ±1%</item>
+        <item>Rojo: ±2%</item>
+        <item>Dorado: ±5%</item>
+        <item>Plateado: ±10%</item>
+    </string-array>
+</resources>

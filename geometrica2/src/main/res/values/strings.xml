@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Geométrica</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="figura">Seleccione el tipo de figura:</string>
+    <string name="circulo">Circulo</string>
+    <string name="cuadro">Cuadro</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="cubo">Cubo</string>
+    <string name="triangulo">Triangulo Rectangulo</string>
+    <string name="listo">Listo</string>
+    <string name="radio">Radio:</string>
+    <string name="calcular">Calcular</string>
+    <string name="radio2">Radio</string>
+    <string name="lado">Lado:</string>
+    <string name="lado2">lado</string>
+    <string name="altura">Cateto 2:</string>
+    <string name="altura2">Cateto 2</string>
+    <string name="base">Cateto 1:</string>
+    <string name="base2">Cateto 1</string>
+    <string name="recomendacion">Info: Ingrese los catetos que forman el ángulo recto.</string>
+</resources>
